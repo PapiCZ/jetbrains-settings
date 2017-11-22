@@ -26,6 +26,12 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -73,6 +79,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="GotoLine" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -103,6 +112,7 @@
   <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt minus" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="alt s" />

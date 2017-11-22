@@ -1,32 +1,4 @@
 <templateSet group="PHP">
-  <template name="puf" value="public function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-  <template name="pusf" value="public static function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-  <template name="prf" value="private function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-  <template name="prsf" value="private static function $NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="private static function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
   <template name="__" value="public function __construct($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="create constructor" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -50,7 +22,7 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="singleton" value="/**&#10; * @var $CLASS$|null&#10; */&#10;private $singleton = null;&#10;&#10;/**&#10; * $CLASS$ constructor.&#10; */&#10;private function __construct()&#10;{&#10;    $END$&#10;}&#10;&#10;/**&#10; * @return $CLASS$&#10; */&#10;public function getSingleton()&#10;{&#10;    if (self::$singleton === null) {&#10;        self::$singleton = new self();&#10;    }&#10;    &#10;    return self::$singleton;&#10;}" description="Implements singleton pattern" toReformat="true" toShortenFQNames="true">
+  <template name="singleton" value="/**&#10; * @var $CLASS$|null&#10; */&#10;private $singleton = null;&#10;&#10;/**&#10; * $CLASS$ constructor.&#10; */&#10;private function __construct()&#10;{&#10;    $END$&#10;}&#10;&#10;/**&#10; * @return $CLASS$&#10; */&#10;public function getSingleton(): $CLASS$&#10;{&#10;    if (self::$singleton === null) {&#10;        self::$singleton = new self();&#10;    }&#10;    &#10;    return self::$singleton;&#10;}" description="implement singleton pattern" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="${CLASS_NAME}" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
