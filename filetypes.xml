@@ -12,11 +12,12 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="ahoj" type="PLAIN_TEXT" />
-      <mapping pattern=".env.hovno" type="PLAIN_TEXT" />
       <mapping pattern=".project-helper.env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.hovno" type="PLAIN_TEXT" />
+      <mapping pattern="test-file" type="PLAIN_TEXT" />
+      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="qmlc" type="PLAIN_TEXT" />
     </extensionMap>
