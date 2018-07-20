@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*twif</mask>
-      <mask>*twi</mask>
-      <mask>*tw</mask>
-      <mask>*t</mask>
-      <mask>*.w</mask>
-      <mask>*.ph</mask>
-      <mask>*.j</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
-      <mask>*R</mask>
-      <mask>*Re</mask>
-      <mask>*Req</mask>
-      <mask>*Reques</mask>
-      <mask>*Request</mask>
-      <mask>*requ</mask>
-      <mask>*req</mask>
-      <mask>*re</mask>
-      <mask>*r</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Project 'ws_mall_connector'" />
+    <option name="defaultScopeName" value="Project 'ws_mall_connector'" />
+    <option name="SEARCH_SCOPE" value="Project 'ws_mall_connector'" />
   </component>
 </application>
