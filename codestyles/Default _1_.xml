@@ -30,6 +30,11 @@
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
@@ -50,6 +55,11 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="79" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="SOFT_MARGINS" value="72" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
