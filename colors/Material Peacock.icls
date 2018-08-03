@@ -33,12 +33,13 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="2f3f44" />
+    <option name="RIGHT_MARGIN_COLOR" value="4e6871" />
     <option name="SELECTED_INDENT_GUIDE" value="304e52" />
     <option name="SELECTED_TEARLINE_COLOR" value="60999d" />
     <option name="SELECTION_BACKGROUND" value="db3f25" />
     <option name="SELECTION_FOREGROUND" value="edf8ff" />
     <option name="TEARLINE_COLOR" value="304e52" />
+    <option name="VISUAL_INDENT_GUIDE" value="2f3f44" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -239,7 +240,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="8aa425" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">

@@ -59,7 +59,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="79" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="72" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
