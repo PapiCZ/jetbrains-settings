@@ -16,8 +16,8 @@
     <mask>forms.py</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>*.jade</mask>
     <mask>*.rst</mask>
+    <mask>*.py</mask>
   </component>
 </application>
