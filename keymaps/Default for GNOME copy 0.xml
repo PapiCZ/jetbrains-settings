@@ -86,4 +86,5 @@
   </action>
   <action id="context.load" />
   <action id="context.save" />
+  <action id="randomness.ShowGroup" />
 </keymap>

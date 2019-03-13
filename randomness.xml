@@ -1,0 +1,6 @@
+<application>
+  <component name="IntegerSettings">
+    <option name="maxValue" value="36" />
+    <option name="minValue" value="1" />
+  </component>
+</application>
