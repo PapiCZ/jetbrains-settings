@@ -463,6 +463,11 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
       <value />
     </option>
@@ -666,6 +671,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="1a8be3" />
+        <option name="BACKGROUND" value="222c37" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
