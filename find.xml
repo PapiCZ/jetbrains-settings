@@ -21,7 +21,8 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.jade</mask>
+    <mask>*.jaed</mask>
     <mask>*.py</mask>
+    <mask>*.jade</mask>
   </component>
 </application>
