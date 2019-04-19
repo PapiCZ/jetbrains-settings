@@ -22,7 +22,7 @@
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.jaed</mask>
-    <mask>*.py</mask>
     <mask>*.jade</mask>
+    <mask>*.py</mask>
   </component>
 </application>
