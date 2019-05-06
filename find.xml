@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="django.po" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +24,7 @@
     <mask>*.jade</mask>
     <mask>*.py</mask>
     <mask>models.py</mask>
-    <mask>django.po</mask>
     <mask>*.json</mask>
+    <mask>django.po</mask>
   </component>
 </application>
