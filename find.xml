@@ -27,5 +27,6 @@
     <mask>*.sass</mask>
     <mask>dev</mask>
     <mask>django.po</mask>
+    <mask>*.pug</mask>
   </component>
 </application>
