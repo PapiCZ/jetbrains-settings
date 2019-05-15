@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,10 +24,10 @@
     <mask>*.jade</mask>
     <mask>*.json</mask>
     <mask>models.py</mask>
-    <mask>*.sass</mask>
     <mask>dev</mask>
     <mask>django.po</mask>
     <mask>*.pug</mask>
     <mask>*.py</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
