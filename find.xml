@@ -18,7 +18,6 @@
     <mask>test.py</mask>
     <mask>tests.py</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.jaed</mask>
     <mask>*.jade</mask>
     <mask>*.json</mask>
@@ -28,5 +27,6 @@
     <mask>*.sass</mask>
     <mask>django.po</mask>
     <mask>models.py</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
