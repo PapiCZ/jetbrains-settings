@@ -24,11 +24,11 @@
     <mask>django.po</mask>
     <mask>*.scss</mask>
     <mask>*.sass</mask>
-    <mask>*.jade</mask>
     <mask>*.js</mask>
     <mask>*.po</mask>
     <mask>*.vue</mask>
     <mask>models.py</mask>
     <mask>*.py</mask>
+    <mask>*.jade</mask>
   </component>
 </application>
