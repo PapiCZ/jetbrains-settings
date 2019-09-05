@@ -20,15 +20,15 @@
     <mask>*.jaed</mask>
     <mask>*.json</mask>
     <mask>dev</mask>
-    <mask>*.pug</mask>
     <mask>django.po</mask>
     <mask>*.scss</mask>
     <mask>*.po</mask>
     <mask>models.py</mask>
     <mask>*.py</mask>
-    <mask>*.vue</mask>
     <mask>*.jade</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.pug</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
