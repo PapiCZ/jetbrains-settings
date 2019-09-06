@@ -28,7 +28,7 @@
     <mask>*.jade</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
-    <mask>*.pug</mask>
     <mask>*.vue</mask>
+    <mask>*.pug</mask>
   </component>
 </application>
