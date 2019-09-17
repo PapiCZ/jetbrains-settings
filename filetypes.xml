@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="widgets" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="week_schedule_export" type="PLAIN_TEXT" />
       <mapping pattern=".project-helper.env" type="PLAIN_TEXT" />
       <mapping pattern=".env.hovno" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
