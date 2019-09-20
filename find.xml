@@ -30,5 +30,6 @@
     <mask>*.sass</mask>
     <mask>*.po</mask>
     <mask>*.py</mask>
+    <mask>nginx.conf</mask>
   </component>
 </application>
