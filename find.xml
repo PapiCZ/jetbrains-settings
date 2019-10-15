@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,10 +28,10 @@
     <mask>*.po</mask>
     <mask>nginx.conf</mask>
     <mask>models.py</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.sass</mask>
     <mask>urls.py</mask>
     <mask>*.jade</mask>
+    <mask>*.js</mask>
   </component>
 </application>
