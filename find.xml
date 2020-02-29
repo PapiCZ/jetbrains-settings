@@ -10,5 +10,6 @@
     <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.pug</mask>
+    <mask>models.py</mask>
   </component>
 </application>
