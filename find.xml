@@ -10,7 +10,7 @@
     <mask>*.scss</mask>
     <mask>*.pug</mask>
     <mask>models.py</mask>
-    <mask>*.py</mask>
     <mask>urls.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
