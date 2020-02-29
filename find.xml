@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="urls.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,5 +12,6 @@
     <mask>*.pug</mask>
     <mask>models.py</mask>
     <mask>*.py</mask>
+    <mask>urls.py</mask>
   </component>
 </application>
