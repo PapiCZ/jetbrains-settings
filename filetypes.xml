@@ -6,13 +6,13 @@
       <mapping pattern=".env.production.example" type=".env file" />
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".env.development.example" type=".env file" />
+      <mapping pattern="make" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx*" type="nginx file type" />
-      <mapping pattern="make" type="Bash" />
     </extensionMap>
   </component>
 </application>
