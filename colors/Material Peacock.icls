@@ -1,10 +1,8 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig Semibold" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -40,7 +38,9 @@
     <option name="SELECTED_TEARLINE_COLOR" value="60999d" />
     <option name="SELECTION_BACKGROUND" value="db3f25" />
     <option name="SELECTION_FOREGROUND" value="edf8ff" />
+    <option name="SEPARATOR_BELOW_COLOR" value="919191" />
     <option name="TEARLINE_COLOR" value="304e52" />
+    <option name="VISUAL_INDENT_GUIDE" value="213e42" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
@@ -96,6 +96,18 @@
     <option name="BNF_STRING">
       <value>
         <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="919191" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="919191" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
