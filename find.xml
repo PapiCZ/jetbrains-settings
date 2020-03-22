@@ -14,5 +14,6 @@
     <mask>*.py</mask>
     <mask>*.jade</mask>
     <mask>*.vue</mask>
+    <mask>*.json</mask>
   </component>
 </application>
