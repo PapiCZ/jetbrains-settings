@@ -15,5 +15,6 @@
     <mask>*.jade</mask>
     <mask>*.vue</mask>
     <mask>*.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
