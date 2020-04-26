@@ -14,7 +14,7 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
-    <mask>models.py</mask>
     <mask>urls.py</mask>
+    <mask>models.py</mask>
   </component>
 </application>
