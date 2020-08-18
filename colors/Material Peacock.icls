@@ -878,19 +878,19 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="485848" />
+        <option name="FOREGROUND" value="74a35b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="715353" />
+        <option name="FOREGROUND" value="a3493b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="80805a" />
+        <option name="FOREGROUND" value="a37246" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
