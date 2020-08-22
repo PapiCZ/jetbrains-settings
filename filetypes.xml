@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.production.example" type=".env file" />
+      <mapping pattern=".env.development.example" type=".env file" />
+      <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".env.production" type=".env file" />
       <mapping pattern=".env.development" type=".env file" />
-      <mapping pattern=".env.production.example" type=".env file" />
-      <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern=".env.development.example" type=".env file" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern="*.nginx*" type="nginx file type" />
