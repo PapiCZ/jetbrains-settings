@@ -2,6 +2,5 @@
   <template name="for" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $END$&#10;{% endfor %}" description="for...in...endfor" toReformat="true" toShortenFQNames="false">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SEQUENCE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
