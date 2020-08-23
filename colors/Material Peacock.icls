@@ -38,6 +38,7 @@
     <option name="SELECTION_BACKGROUND" value="db3f25" />
     <option name="SELECTION_FOREGROUND" value="edf8ff" />
     <option name="TEARLINE_COLOR" value="304e52" />
+    <option name="VISUAL_INDENT_GUIDE" value="ffffff" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
