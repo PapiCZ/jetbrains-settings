@@ -43,6 +43,11 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dee3ec"/>
+      </value>
+    </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
