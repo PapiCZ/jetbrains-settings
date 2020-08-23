@@ -3,23 +3,19 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.graphql" />
-    <mask>*.css</mask>
+    <mask>*.properties</mask>
     <mask>*.html</mask>
+    <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.pyw</mask>
-    <mask>*.scss</mask>
-    <mask>*.pug</mask>
-    <mask>*.jade</mask>
-    <mask>*.vue</mask>
-    <mask>*.json</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
-    <mask>models.py</mask>
-    <mask>urls.py</mask>
-    <mask>0025*.py</mask>
-    <mask>*.gitignore</mask>
-    <mask>*.yml</mask>
-    <mask>*.py</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.twig</mask>
+    <mask>*Controller.php</mask>
+    <mask>*.vue</mask>
     <mask>*.graphql</mask>
+    <mask>*.php</mask>
   </component>
 </application>

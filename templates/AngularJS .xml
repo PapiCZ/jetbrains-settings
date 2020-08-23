@@ -1,0 +1,10 @@
+<templateSet group="AngularJS ">
+  <template name="ngrwr" value="$routeProvider.when('$url$', {&#10;    templateUrl: '$templateUrl$', &#10;    controller: '$controller$',&#10;    resolve: {$END$&#10;    }&#10;});" description="Defines a when condition of an AngularJS route with the resolve block." toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="templateUrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="controller" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+</templateSet>
