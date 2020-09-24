@@ -17,6 +17,7 @@
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
     <mask>*.graphql</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
