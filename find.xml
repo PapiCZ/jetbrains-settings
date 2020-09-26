@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +19,9 @@
     <mask>*Controller.php</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.graphql</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.graphql</mask>
+    <mask>*.py</mask>
   </component>
 </application>
